@@ -172,6 +172,15 @@
     flex-wrap: wrap;
   }
 
+  .docs li {
+    width: calc(33.33% - 16px);
+    margin-bottom: 32px;
+    background-color: #fff;
+    padding: 16px;
+    text-align: center;
+    border-radius: 4px;
+  }
+
   .docs li p {
     font-size: 16px;
     margin-bottom: 16px;
