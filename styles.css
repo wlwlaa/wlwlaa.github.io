@@ -160,8 +160,10 @@
   }
   
   .docs img {
-    width: 156px;
-    height: 220px;
+    width: 50%;
+    height: 50%;
+    margin-bottom: 16px;
+    border-radius: 4px;
   }
 
   .docs ul {
