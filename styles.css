@@ -162,6 +162,8 @@
   .docs img {
     width: 50%;
     height: 50%;
+    margin-bottom: 16px;
+    border-radius: 4px;
   }
 
   .docs ul {
