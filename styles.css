@@ -77,23 +77,6 @@
     margin-bottom: 0;
   }
   
-  /* Стили для раздела "Акция" */
-  .promo {
-    background-color: #fff;
-    padding: 32px;
-    text-align: center;
-  }
-  
-  .promo h2 {
-    font-size: 36px;
-    margin-bottom: 16px;
-  }
-  
-  .promo p {
-    font-size: 24px;
-    margin-bottom: 32px;
-  }
-  
   /* Стили для раздела "Топ-продукты" */
   .products {
     background-color: #f6f6f6;
@@ -143,5 +126,27 @@
     color: #fff;
     padding: 16px;
     text-align: center;
+  }
+  
+  section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  section h2 {
+    margin-top: 0;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  section p {
+    margin-bottom: 0;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
   }
   
