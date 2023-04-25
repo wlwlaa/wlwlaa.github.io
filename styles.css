@@ -183,3 +183,8 @@
     margin-bottom: 16px;
     color: #333;
   }
+
+  .docs li:last-child {
+    margin: 0 auto;
+  }
+  
